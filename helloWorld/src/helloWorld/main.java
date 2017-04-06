@@ -7,7 +7,10 @@ public class main {
 		String ahoj = "789456123";
 		
 		int aaa = 5;
-		
+
 		int bbb = 5;
+
+		int tt = 666;
+
 	}
 }
