@@ -13,5 +13,5 @@ public class Novatrieda {
 	
 	int aae=4;
 	
-	
+	int d666=666;
 }
