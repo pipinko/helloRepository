@@ -11,5 +11,7 @@ public class Novatrieda {
 	
 	int adf=555;
 	
+	int aae=4;
+	
 	
 }
