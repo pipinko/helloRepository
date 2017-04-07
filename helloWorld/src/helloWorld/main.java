@@ -15,6 +15,8 @@ public class main {
 		int tt4 = 666;
 
 		int ddd = 5;
+		
+		int bcf=55;
 
 	}
 }
