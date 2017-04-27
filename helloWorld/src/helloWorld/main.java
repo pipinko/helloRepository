@@ -1,5 +1,8 @@
 package helloWorld;
 
+import helloWorld.builder.entity.Auto;
+import helloWorld.builder.impl.AutoBuilder;
+
 public class main {
 
 	
@@ -17,6 +20,10 @@ public class main {
 		int ddd = 5;
 		
 		int bcf=552;
+		
+		AutoBuilder builder = new AutoBuilder();
+		Auto auto = builder.build();
+		System.out.print(auto);
 
 	}
 }
